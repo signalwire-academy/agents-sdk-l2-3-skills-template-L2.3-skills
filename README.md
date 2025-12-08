@@ -62,4 +62,10 @@ See `reference/starter.py` for a boilerplate template.
 
 ---
 
+## Next Assignment
+
+Ready to continue? [**Start Lab 2.4: Custom Skills**](https://classroom.github.com/a/BxhfvrXR)
+
+---
+
 *SignalWire AI Agents Certification*
